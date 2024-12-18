@@ -15,12 +15,12 @@ body {
 }
 
 .card_container {
-  width: 245px;
+  width: 285px;
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
-  border-radius: 15px;
-  padding: 15px;
+  border-radius: 20px;
+  padding: 20px;
   border: 1px #6b6b6b solid;
   box-shadow: 6px 6px 0px 0px #121212;
 }
@@ -59,13 +59,13 @@ body {
 
 .publication_date {
   font-weight: 500;
-  font-size: clamp(11px, 1vw, 12px);
+  font-size: clamp(12px, 1vw, 13px);
   margin: 10px 0px;
   color: #121212;
 }
 
 .blog_title {
-  font-size: clamp(16px, 2vw, 18px);
+  font-size: clamp(16px, 2vw, 20px);
   margin: 5px 0px;
   color: #121212;
 }
@@ -76,9 +76,10 @@ body {
 }
 
 .card_container p {
-  font-size: clamp(11px, 1vw, 12px);
+  font-size: clamp(13px, 2vw, 14px);
   margin: 5px 0;
   line-height: 1.5;
+  color: #6b6b6b;
 }
 
 .author {
