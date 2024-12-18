@@ -11,12 +11,12 @@ The designs were created to the following widths:
 
 ## Colors
 
-- Yellow: hsl(47, 88%, 63%)
+- Yellow: hsl(47, 88%, 63%) #f4d04e
 
-- White: hsl(0, 0%, 100%)
+- White: hsl(0, 0%, 100%) #ffffff
 
-- Gray 500: hsl(0, 0%, 42%)
-- Gray 950: hsl(0, 0%, 7%)
+- Gray 500: hsl(0, 0%, 42%) #6b6b6b
+- Gray 950: hsl(0, 0%, 7%) #121212
 
 ## Typography
 
@@ -30,3 +30,5 @@ The designs were created to the following widths:
 - Weights: 500, 800
 
 > 💎 This is a free+ challenge. So, if you want to see all the design details and practice working with professional tools like Figma, you can download the design file from where you downloaded the starter code.
+
+Attributes links #3e52a3
